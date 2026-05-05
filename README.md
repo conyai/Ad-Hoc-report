@@ -41,7 +41,6 @@ Identify the relationship between **new customer acquisition** and **daily/weekl
 Ad-Hoc-report/
 │
 ├── notebook.ipynb       # Main analysis with visualizations
-├── data/                # Source data (if applicable)
 └── README.md
 ```
 
@@ -71,4 +70,3 @@ jupyter notebook
 ## 👤 Author
 
 **Oleksandr Romanyshyn** — Junior Data Analyst  
-[LinkedIn](#) • [Kaggle](#) • [GitHub](https://github.com/conyai)
